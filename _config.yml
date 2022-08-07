@@ -27,9 +27,9 @@ navbar-links:
 #  Author's home: "https://deanattali.com"
   Home: "https://atefeh-mohammadi.github.io"
   CV: "my_cv.pdf"
-  Research: "research.md"
-  Certificates: ""
-  Gallery: ""
+  Research: "research"
+  Certificates: "certificates"
+  Gallery: "gallery"
 
 ################
 # --- Logo --- #
