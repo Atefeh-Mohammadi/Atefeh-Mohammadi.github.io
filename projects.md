@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: "Projects"
 ---
 
 Usage of data mining in diagnosing breast cancer
