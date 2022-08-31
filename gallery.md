@@ -3,7 +3,7 @@ layout: page
 title: "My gallery"
 ---
 
-Here are a few pictures of mine doing activities at university.
+Here are a few pictures of mine doing different activities at the university.
 
 ![Tux, the Linux mascot](/assets/img/pic3.jpg)
 
