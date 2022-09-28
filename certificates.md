@@ -7,6 +7,8 @@ title : "My certificates"
 
 ![Tux, the Linux mascot](/assets/img/rahnema.jpg)
 
+![Tux, the Linux mascot](/assets/img/quera.jpg)
+
 ![Tux, the Linux mascot](/assets/img/network+.jpg)
 
 ![Tux, the Linux mascot](/assets/img/windows.jpg)
